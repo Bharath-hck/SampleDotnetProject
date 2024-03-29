@@ -6,5 +6,6 @@ class UserService
     {
         Console.WriteLine("Fetching User Data");
         Console.WriteLine("Modified Line");
+        Console.WriteLine("Another New Line");
     }
 }
